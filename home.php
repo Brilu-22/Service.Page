@@ -7,7 +7,7 @@ include 'includes/connection.php'; // Include the database connection
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Virtual Assistant Services</title>
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
@@ -15,7 +15,7 @@ include 'includes/connection.php'; // Include the database connection
         <p>Providing top-notch virtual assistant services to streamline your business needs.</p>
         <nav>
             <ul>
-                <li><a href="index.php">Home</a></li>
+                <li><a href="home.php">Home</a></li>
                 <li><a href="services.php">Services</a></li>
             </ul>
         </nav>
