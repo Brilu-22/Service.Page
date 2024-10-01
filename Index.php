@@ -7,7 +7,7 @@ include 'includes/connection.php'; // Include the database connection
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Virtual Assistant Services</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="">
 </head>
 <body>
     <header>
